@@ -1,1 +1,1 @@
-# SQL_Ecommercr_Project
+# SQL_Ecommerce_Project
