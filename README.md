@@ -28,7 +28,11 @@ The underlying schema includes key tables:
 
   2. Show all products with their category name.
 
+![Image](https://github.com/user-attachments/assets/d7c1ef53-d588-4593-b863-5c70ea9cd475)
 
+  3. Display each order with the customer’s full name.
+  4.  List order items with product names and unit prices.
+  5.  Show all products and include their category name even if the category is missing.
 
 ## 📝 Notes & Recommendations
 
