@@ -23,7 +23,7 @@ The underlying schema includes key tables:
 ## 📊 SQL Query Categories
 
   1. List all customers along with their city and state.
-  
+![Image](https://github.com/user-attachments/assets/605f719c-8ab2-424e-8625-7f873293e41f) 
 
 ## 📝 Notes & Recommendations
 
