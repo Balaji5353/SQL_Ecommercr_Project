@@ -31,8 +31,30 @@ The underlying schema includes key tables:
 ![Image](https://github.com/user-attachments/assets/d7c1ef53-d588-4593-b863-5c70ea9cd475)
 
   3. Display each order with the customer’s full name.
-  4.  List order items with product names and unit prices.
-  5.  Show all products and include their category name even if the category is missing.
+  4. List order items with product names and unit prices.
+  5. Show all products and include their category name even if the category is missing.
+  6. Get the total number of orders placed by each customer.
+  7. List each customer with their total spending.
+  8. Show each product with the total quantity sold.
+  9. Find the total number of order items for each order.
+  10. List all orders placed in 2024 with customer names.
+  11. Get a list of products that have never been ordered.
+  12. Display customers who placed more than 2 orders.
+  13. List top 5 customers who spent the most money.
+  14. Show all orders where the total quantity of items ordered was greater than 10.
+  15. Display each product with total revenue generated.
+  16. Get each customer’s most recent order date.
+  17. Find all customers who signed up but never placed an order.
+  18. List the total revenue generated for each product category.
+  19. Display each city and the total number of customers from that city.
+  20. Find the most frequently ordered product (by total quantity).
+  21. Find customers who ordered the most expensive product
+
+
+
+
+
+
 
 ## 📝 Notes & Recommendations
 
