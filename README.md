@@ -20,6 +20,12 @@ The underlying schema includes key tables:
 - Identify business opportunities through data anomalies and patterns
 - Deliver a flexible SQL toolkit for common ecommerce use cases
 
+## 🛠️ Tools & Technologies Used
+- *SQL* – Data extraction, transformation, and querying
+- *Ecommerce Database* 
+
+
+
 ## 📊 SQL Query 
 
   1. List all customers along with their city and state.
