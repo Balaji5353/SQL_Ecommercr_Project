@@ -85,6 +85,7 @@ The underlying schema includes key tables:
    
   15. Display each product with total revenue generated.
 
+![Image](https://github.com/user-attachments/assets/a3b7cbd8-adf0-42a0-bc6a-bc02c2177be7)
    
   16. Get each customer’s most recent order date.
 
