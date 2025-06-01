@@ -46,6 +46,7 @@ The underlying schema includes key tables:
    
   5. Show all products and include their category name even if the category is missing.
 
+![Image](https://github.com/user-attachments/assets/7beb67cf-5c7e-4961-a14f-0a4778f78685)
    
   6. Get the total number of orders placed by each customer.
 
