@@ -89,6 +89,7 @@ The underlying schema includes key tables:
    
   16. Get each customer’s most recent order date.
 
+![Image](https://github.com/user-attachments/assets/f3b544ed-3e3c-4a1d-9917-aa738636ce44)
    
   17. Find all customers who signed up but never placed an order.
 
