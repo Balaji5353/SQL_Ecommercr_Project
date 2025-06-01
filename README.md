@@ -69,6 +69,7 @@ The underlying schema includes key tables:
    
   11. Get a list of products that have never been ordered.
 
+![Image](https://github.com/user-attachments/assets/90ed94d8-5921-418e-bd77-551a997faf93)
    
   12. Display customers who placed more than 2 orders.
 
