@@ -105,6 +105,7 @@ The underlying schema includes key tables:
    
   20. Find the most frequently ordered product (by total quantity).
 
+![Image](https://github.com/user-attachments/assets/7018402a-4136-490e-aa54-e1efe4f7200f)
    
   21. Find customers who ordered the most expensive product
 
