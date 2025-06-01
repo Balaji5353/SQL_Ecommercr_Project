@@ -62,6 +62,7 @@ The underlying schema includes key tables:
    
   9. Find the total number of order items for each order.
 
+![Image](https://github.com/user-attachments/assets/7269ba32-eb26-4479-85ce-293ff705a636)
    
   10. List all orders placed in 2024 with customer names.
 
