@@ -65,6 +65,7 @@ The underlying schema includes key tables:
    
   10. List all orders placed in 2024 with customer names.
 
+![Image](https://github.com/user-attachments/assets/69d42643-f883-4442-947d-96134e7c5993)
    
   11. Get a list of products that have never been ordered.
 
