@@ -1,6 +1,8 @@
 # SQL_Ecommerce_Project By Balaji
 # 📦 Ecommerce Analytics SQL Project
 
+![Image](https://github.com/user-attachments/assets/06264170-e7c3-4591-b322-0deee0507b51)
+
 ## 📖 Overview
 
 This project provides a structured and comprehensive set of SQL queries for an ecommerce database. It is designed to extract actionable insights from core business entities such as customers, products, orders, and categories. The queries cover a range of business questions, from customer behavior analysis to product performance, ensuring stakeholders can make informed decisions using data-driven intelligence.
