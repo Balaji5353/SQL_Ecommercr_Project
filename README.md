@@ -81,6 +81,7 @@ The underlying schema includes key tables:
    
   14. Show all orders where the total quantity of items ordered was greater than 10.
 
+![Image](https://github.com/user-attachments/assets/2ee3af15-ba0f-4fce-891c-fa1839257b0e)
    
   15. Display each product with total revenue generated.
 
