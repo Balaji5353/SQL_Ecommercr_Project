@@ -54,6 +54,7 @@ The underlying schema includes key tables:
    
   7. List each customer with their total spending.
 
+![Image](https://github.com/user-attachments/assets/6cfb9a61-17c9-431d-af83-8d8aa3734630)
    
   8. Show each product with the total quantity sold.
 
