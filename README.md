@@ -108,6 +108,7 @@ The underlying schema includes key tables:
    
   21. Find customers who ordered the most expensive product
 
+![Image](https://github.com/user-attachments/assets/c80a975f-8bb3-4765-9069-be3fe074e60d)
 
 
 
