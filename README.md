@@ -101,6 +101,7 @@ The underlying schema includes key tables:
    
   19. Display each city and the total number of customers from that city.
 
+![Image](https://github.com/user-attachments/assets/c84b23e5-5049-472e-86df-c206fcaaf984)
    
   20. Find the most frequently ordered product (by total quantity).
 
