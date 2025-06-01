@@ -77,6 +77,7 @@ The underlying schema includes key tables:
    
   13. List top 5 customers who spent the most money.
 
+![Image](https://github.com/user-attachments/assets/2df0d420-7f05-41e4-a03c-ab93dac4be68)
    
   14. Show all orders where the total quantity of items ordered was greater than 10.
 
