@@ -93,6 +93,7 @@ The underlying schema includes key tables:
    
   17. Find all customers who signed up but never placed an order.
 
+![Image](https://github.com/user-attachments/assets/51a625b6-882d-4e3e-bd95-5add546832ca)
    
   18. List the total revenue generated for each product category.
 
