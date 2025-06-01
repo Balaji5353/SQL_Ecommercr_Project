@@ -42,6 +42,7 @@ The underlying schema includes key tables:
     
   4. List order items with product names and unit prices.
 
+![Image](https://github.com/user-attachments/assets/06f0893b-1164-4422-a751-48b4703ccbd9)
    
   5. Show all products and include their category name even if the category is missing.
 
