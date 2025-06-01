@@ -73,6 +73,7 @@ The underlying schema includes key tables:
    
   12. Display customers who placed more than 2 orders.
 
+![Image](https://github.com/user-attachments/assets/43f9119a-cb9f-4568-a91b-6ccc8ae31b71)
    
   13. List top 5 customers who spent the most money.
 
