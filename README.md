@@ -97,6 +97,7 @@ The underlying schema includes key tables:
    
   18. List the total revenue generated for each product category.
 
+![Image](https://github.com/user-attachments/assets/8707a39d-0c21-4d79-ab8a-415258688121)
    
   19. Display each city and the total number of customers from that city.
 
