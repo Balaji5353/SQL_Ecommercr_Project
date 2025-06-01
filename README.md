@@ -50,7 +50,7 @@ The underlying schema includes key tables:
    
   6. Get the total number of orders placed by each customer.
 
-![Image](https://github.com/user-attachments/assets/92356125-47f8-4312-97db-10c8ed8218a4)
+![Image](https://github.com/user-attachments/assets/3310b73a-3aab-49e6-ad50-75f04ac457e1)
    
   7. List each customer with their total spending.
 
