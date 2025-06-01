@@ -58,6 +58,7 @@ The underlying schema includes key tables:
    
   8. Show each product with the total quantity sold.
 
+![Image](https://github.com/user-attachments/assets/ca489c61-0a75-4b8d-aeba-179886917db8)
    
   9. Find the total number of order items for each order.
 
